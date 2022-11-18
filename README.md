@@ -1,3 +1,9 @@
 # FullStack Project
 
-``` ReactJS + SpringBoot ```
+## Front-End:
+
+``` ReactJS(Typescript) ```
+
+## Back-End:
+
+``` SpringBoot(Java) ```
