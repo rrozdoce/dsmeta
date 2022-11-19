@@ -10,4 +10,4 @@
 
 ## Links:
 
-``` https://dsmeta-rrozdoce.herokuapp.com/ ```
+https://dsmeta-rrozdoce.netlify.app/
