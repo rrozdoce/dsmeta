@@ -6,7 +6,7 @@
 
 ## Back-End:
 
-``` SpringBoot(Java) API REST with SMS and Cloud ```
+``` SpringBoot(Java) API REST with SMS```
 
 ## Links:
 
